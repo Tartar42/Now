@@ -43,3 +43,4 @@ print("You got " + str(score / whole * 100) + " %" + " questions correct. well d
 
 #Sources: https://www.youtube.com/watch?v=DLn3jOsNRVE&list=PLsCTnBEpCwH-MZja6wejVZ6sdMbghuGYd&index=10&t=190s , first project
 #Date: 14.04.23
+# 1
